@@ -1,0 +1,11 @@
+{
+	"name": "CI_KixGen core",
+	"description": "This is the core template that generates the models, and the controllers + views for the administration area for CI_KixGen.",
+	"author": "KiXcellent",
+	"template_creator": "KiXcellent",
+	"output_directory": "output",
+	"working_root_directory": "application",
+	"working_directories": [ "config","controllers", "models", "views" ],
+	"copy_directories": [ "repo/codeigniter_package", "repo/ci_extension", "templates/kixgen_core/kixgen_package" ],
+	"dump_output_directory": true
+}

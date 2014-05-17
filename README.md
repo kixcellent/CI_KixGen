@@ -40,7 +40,7 @@ Create an "output" directory in the root of your CI_KixGen installation and make
 Point you browser to the installation directory and if all goes well, you should see a big green line, saying: “The output directory is writable, have fun using CI_KixGen”
 
 replacing the following line on:
-iscaffold/application/views/welcome_view.php (around line 165)
+ci_kixgen/application/views/welcome_view.php (around line 165)
 
 iframe src="" frameborder="0" width="100%" id="configurator_frame" name="configurator_frame"
 
